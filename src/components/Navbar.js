@@ -8,6 +8,7 @@ const Navbar = (props) => {
         </div>
     );
 }
+//proptypes ler gerekli mi gereksizmi, gönderilecek mi değilmi proptypes te yapılıyor
 //Navbar ın proptyplarda title gönderiyoruz, o da string ve gereekli olacak 
 //! aşağıda kullanırken Navbar.propTypes yazarken p harfini küçük yazıyorsun aman dikkat!!!
 //başka yerde kullanacaksan mutlaka string olmalı ve bu alan yazılmalı 
